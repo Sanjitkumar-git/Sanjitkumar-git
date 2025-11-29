@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjitkumar-git&label=Profile%20views&color=0e75b6&style=flat" alt="sanjitkumar-git" /> </p>
 
-- 🔭 I’m currently working on [NotesAi Generator](https://github.com/Sanjit747/NotesAI-generator)
+- 🔭 I’m currently working on [Safety Alert App](https://github.com/Sanjit747/NotesAI-generator)
 
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
@@ -15,6 +15,7 @@
 - 📫 How to reach me **sanjitkumar9011@gmail.com**
 
 - ⚡ Fun fact **I turned heartbreak into hustle**
+- download my project- https://downloadcenterdevsanjit.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

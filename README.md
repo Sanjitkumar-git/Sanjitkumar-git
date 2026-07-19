@@ -119,7 +119,10 @@ Access all my **live projects**, **downloadable packages**, and **source archive
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjitkumar-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.screw-hand.vercel.app/?username=sanjitkumar-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ---

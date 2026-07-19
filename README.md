@@ -101,8 +101,19 @@ Access all my **live projects**, **downloadable packages**, and **source archive
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjitkumar-git&layout=compact&hide_border=true&theme=tokyonight&title_color=0e75b6&langs_count=8" alt="Top Languages" />
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=0e75b6&icon_color=0e75b6&cache_seconds=86400"
+  alt="GitHub Stats"
+/>
+
+<img
+  width="40%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&hide_border=true&theme=tokyonight&title_color=0e75b6&langs_count=8&cache_seconds=86400"
+  alt="Top Languages"
+/>
+
+</div>
 
 </div>
 

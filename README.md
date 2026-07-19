@@ -1,34 +1,86 @@
+# Hi 👋, I'm Sanjit Kumar  
+### Full-Stack & Hybrid Mobile App Developer from India 🇮🇳  
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Sanjit Kumar</h1>
-<h3 align="center">"A Passionate Full-Stack & Hybrid Mobile App Developer from India | Kotlin, Java, Flutter | Web & Backend Expertise in HTML, CSS, Python, & Machine Learning"</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjitkumar-git&label=Profile%20views&color=0e75b6&style=flat" alt="sanjitkumar-git" /> </p>
-
-- 🔭 I’m currently working on [Safety Alert App](https://github.com/Sanjit747/NotesAI-generator)
-
-- 🌱 I’m currently learning **Flutter, Kotlin**
-
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **sanjitkumar9011@gmail.com**
-
-- ⚡ Fun fact **I turned heartbreak into hustle**
-- download my project- https://downloadcenterdevsanjit.netlify.app/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanjit-kumar-5aa355296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjit-kumar-5aa355296" height="30" width="40" /></a>
-<a href="https://fb.com/ricky.official.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricky.official.in" height="30" width="40" /></a>
-<a href="https://instagram.com/__rickyrana__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__rickyrana__" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjitkumar-git&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Sanjit's Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjitkumar-git&show_icons=true&locale=en&layout=compact" alt="sanjitkumar-git" /></p>
+## 🌐 Featured Portfolio & Live Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&locale=en" alt="sanjitkumar-git" /></p>
+> 🔥 **Looking for my project builds, source code, or live demos?**  
+> You can access all my major projects—including **ChetChat App**, production apps, and ongoing releases—directly through my official portfolio:  
+> 👉 **[Visit My Live Download Center & Portfolio](https://downloadcenterdevsanjit.netlify.app/)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitkumar-git&" alt="sanjitkumar-git" /></p>
+---
+
+## 🚀 About Me
+
+I am a passionate **Full-Stack & Hybrid Mobile App Developer** currently working as a **Flutter Developer at V3M Technologies, Gurgaon**. I specialize in crafting high-performance mobile applications, clean UI/UX architectures, and integrating smart backend solutions.
+
+*   💼 **Current Role:** Flutter Developer at **V3M Technologies (Gurgaon)**
+*   🔭 **Current Project:** Building the [Safety Alert App](https://github.com/Sanjit747/NotesAI-generator)
+*   🔙 **Recent Milestone:** Launched **ChetChat**, a real-time, seamless chat application.
+*   🌱 **Up-skilling:** Deep diving into advanced Flutter architectures, Kotlin, and Machine Learning integrations.
+*   ⚡ **Fun Fact:** Turned heartbreak into pure engineering hustle!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend, Databases & ML
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🧰 Design & Dev Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjitkumar-git&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitkumar-git&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sanjit-kumar-5aa355296" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/__rickyrana__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:sanjitkumar9011@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://downloadcenterdevsanjit.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-🌐-blueviolet?style=for-the-badge" alt="Portfolio Website" />
+  </a>
+</p>

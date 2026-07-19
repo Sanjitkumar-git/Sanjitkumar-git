@@ -9,20 +9,22 @@
 
 ## 🌐 Featured Portfolio & Live Projects
 
-> 🔥 **Looking for my project builds, source code, or live demos?**  
-> You can access all my major projects—including **ChetChat App**, production apps, and ongoing releases—directly through my official portfolio:  
-> 👉 **[Visit My Live Download Center & Portfolio](https://downloadcenterdevsanjit.netlify.app/)**
+> 🔥 **Looking for my project builds, live demos, or deployment links?**  
+> You can access all my live projects, downloadable packages, and source archives directly through my central hub:  
+> 👉 **[Visit My Live Project & Download Center](https://downloadcenterdevsanjit.netlify.app/)**
 
 ---
 
 ## 🚀 About Me
 
-I am a passionate **Full-Stack & Hybrid Mobile App Developer** currently working as a **Flutter Developer at V3M Technologies, Gurgaon**. I specialize in crafting high-performance mobile applications, clean UI/UX architectures, and integrating smart backend solutions.
+I am a passionate **Full-Stack & Hybrid Mobile App Developer** currently working as a **Flutter Developer at V3M Technologies, Gurgaon**. I focus on building responsive UI architectures, robust mobile systems, and integrating intelligent backend flows.
 
 *   💼 **Current Role:** Flutter Developer at **V3M Technologies (Gurgaon)**
-*   🔭 **Current Project:** Building the [Safety Alert App](https://github.com/Sanjit747/NotesAI-generator)
-*   🔙 **Recent Milestone:** Launched **ChetChat**, a real-time, seamless chat application.
-*   🌱 **Up-skilling:** Deep diving into advanced Flutter architectures, Kotlin, and Machine Learning integrations.
+*   🔭 **Current Projects:** 
+    *   **ChetChat App** — A real-time, high-performance chat and communication ecosystem.
+    *   **Music Verse App** — An immersive mobile audio/media streaming experience.
+*   🛠️ **Recent Frameworks:** Deeply focused on production-ready mobile lifecycles and modern state management.
+*   🌱 **Up-skilling:** Advanced Flutter architectures, Kotlin native integrations, and Machine Learning layouts.
 *   ⚡ **Fun Fact:** Turned heartbreak into pure engineering hustle!
 
 ---

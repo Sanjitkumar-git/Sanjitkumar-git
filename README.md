@@ -106,7 +106,6 @@ Access all my **live projects**, **downloadable packages**, and **source archive
   src="https://ghstats.dev/api/card?username=sanjitkumar-git&theme=tokyonight"
   alt="GitHub Stats"
 />
-
 <img
   width="49%"
   src="https://ghstats.dev/api/languages?username=sanjitkumar-git&theme=tokyonight"

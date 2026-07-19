@@ -108,10 +108,23 @@ Access all my **live projects**, **downloadable packages**, and **source archive
 />
 
 <img
-  width="40%"
-  src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Top Languages"
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Most Used Languages"
 />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💻 Primary Technologies
+
+<img src="https://img.shields.io/badge/Dart-90%25-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NLP-Projects-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TTS-Projects-FF6B6B?style=for-the-badge" />
 
 </div>
 

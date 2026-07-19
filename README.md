@@ -108,8 +108,8 @@ Access all my **live projects**, **downloadable packages**, and **source archive
 />
 <img
   width="49%"
-  src="https://ghstats.dev/api/languages?username=sanjitkumar-git&theme=tokyonight"
-  alt="Top Languages"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+  alt="Flutter"
 />
 
 </div>

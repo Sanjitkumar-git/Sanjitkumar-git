@@ -103,13 +103,13 @@ Access all my **live projects**, **downloadable packages**, and **source archive
 
 <img
   width="49%"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanjitkumar-git&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"
+  src="https://ghstats.dev/api/card?username=sanjitkumar-git&theme=tokyonight"
   alt="GitHub Stats"
 />
 
 <img
-  width="40%"
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+  width="49%"
+  src="https://ghstats.dev/api/languages?username=sanjitkumar-git&theme=tokyonight"
   alt="Top Languages"
 />
 

@@ -107,9 +107,10 @@ Access all my **live projects**, **downloadable packages**, and **source archive
   alt="GitHub Stats"
 />
 <img
-  width="49%"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
-  alt="Flutter"
+<img
+  width="40%"
+  src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
 />
 
 </div>

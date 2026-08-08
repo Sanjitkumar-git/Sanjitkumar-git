@@ -129,19 +129,22 @@ Access all **production apps**, **downloadable packages**, and **source archives
   </h2>
 </div>
 
+<!-- FIXED: Using github-readme-stats with proper parameters -->
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=0e75b6" alt="Most Used Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <br>
 
+<!-- FIXED: GitHub Streak Stats -->
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitkumar-git&hide_border=true&theme=tokyonight&stroke=0e75b6&ring=0e75b6&fire=ff6b6b&currStreakLabel=0e75b6&background=0a0a0a" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitkumar-git&hide_border=true&theme=tokyonight&stroke=0e75b6&ring=0e75b6&fire=ff6b6b&currStreakLabel=0e75b6" alt="GitHub Streak" />
 </div>
 
+<!-- FIXED: Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitkumar-git&theme=tokyo-night&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff&bg_color=0a0a0a" alt="Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitkumar-git&theme=tokyo-night&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff" alt="Activity Graph" />
 </div>
 
 ---
@@ -155,8 +158,9 @@ Access all **production apps**, **downloadable packages**, and **source archives
   </h2>
 </div>
 
+<!-- FIXED: Trophies with correct URL -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjitkumar-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&bg_color=0a0a0a" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjitkumar-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---

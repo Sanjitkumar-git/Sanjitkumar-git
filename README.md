@@ -2,7 +2,7 @@
 <!--            MAIN GIF HERO BANNER                 -->
 <!-- =============================================== -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3cwM211dTMxMWN4bHViOXpxeGY0NG4xOGYyY3RuNHV4cWlnbjlmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Android Developer Banner" />
+  <img src="./assets/my.gif" width="500" alt="My Animation">
 </p>
 <!-- ===== ANIMATED HEADER BANNER ===== -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanjit%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20Hybrid%20Mobile%20App%20Developer&descAlignY=55&descSize=18" /> -->

@@ -118,9 +118,7 @@ Access all **production apps**, **downloadable packages**, and **source archives
 
 </div>
 
----
-
-<!-- ===== PREMIUM GITHUB STATS (Without Vercel) ===== -->
+<!-- ===== GITHUB ANALYTICS SECTION ===== -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> 
@@ -129,29 +127,53 @@ Access all **production apps**, **downloadable packages**, and **source archives
   </h2>
 </div>
 
+<br>
+
 <!-- ===== STATS CARD 1: GitHub Stats ===== -->
 <div align="center">
-  <a href="https://github.com/sanjitkumar-git">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/sanjitkumar-git">
+          <img src="https://github-readme-stats.vercel.app/api?username=sanjitkumar-git&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/sanjitkumar-git">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjitkumar-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br>
 
 <!-- ===== STATS CARD 2: GitHub Streak ===== -->
 <div align="center">
   <a href="https://github.com/sanjitkumar-git">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitkumar-git&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjitkumar-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+<br>
 
 <!-- ===== STATS CARD 3: Activity Graph ===== -->
 <div align="center">
   <a href="https://github.com/sanjitkumar-git">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitkumar-git&theme=tokyo-night&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjitkumar-git&theme=tokyo-night&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff" alt="Activity Graph" />
   </a>
 </div>
 
----
+<br>
+
+<!-- ===== DIVIDER ===== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+
+
 
 <!-- ===== PREMIUM TROPHIES ===== -->
 <div align="center">

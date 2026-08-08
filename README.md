@@ -2,7 +2,7 @@
 <!--            MAIN GIF HERO BANNER                 -->
 <!-- =============================================== -->
 <p align="center">
-  <img src="./assets/my.gif" width="1000", height="600" alt="My Animation">
+  <img src="./assets/my.gif" width="1500", height="800" alt="My Animation">
 </p>
 <!-- ===== ANIMATED HEADER BANNER ===== -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanjit%20Kumar&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20Hybrid%20Mobile%20App%20Developer&descAlignY=55&descSize=18" /> -->

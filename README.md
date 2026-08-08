@@ -159,7 +159,7 @@ Access all **production apps**, **downloadable packages**, and **source archives
 <a href="https://linkedin.com/in/sanjit-kumar-5aa355296" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/__rickyrana__" target="_blank">
+<a href="https://instagram.com/therickyverse_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
 </a>
 <a href="mailto:sanjitkumar9011@gmail.com">

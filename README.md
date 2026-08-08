@@ -6,9 +6,9 @@
 </p>
 
 <!-- ===== ANIMATED HEADER WITH GLOW ===== -->
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Sanjit%20Kumar&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20%26%20Hybrid%20Mobile%20App%20Developer&descAlignY=55&descSize=20" />
-</div>
+</div> -->
 
 <!-- ===== GLOWING TYPING ANIMATION ===== -->
 <div align="center">

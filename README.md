@@ -2,7 +2,7 @@
 <!--            PREMIUM HERO BANNER                 -->
 <!-- =============================================== -->
 <p align="center">
-  <img src="./assets/my.gif" width="100%" alt="My Animation" style="border-radius: 30px; box-shadow: 0 30px 60px rgba(14, 117, 182, 0.4); border: 2px solid rgba(14, 117, 182, 0.3);">
+  <img src="./assets/bggif.gif" width="100%" alt="My Animation" style="border-radius: 30px; box-shadow: 0 30px 60px rgba(14, 117, 182, 0.4); border: 2px solid rgba(14, 117, 182, 0.3);">
 </p>
 
 <!-- ===== ANIMATED HEADER WITH GLOW ===== -->

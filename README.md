@@ -18,7 +18,11 @@
 <!--  BADGES                                                       -->
 <!-- ============================================================ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjitkumar-git&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<!-- Option 1: hits.sh -->
+<img src="https://hits.sh/github.com/sanjitkumar-git.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=0e75b6&labelColor=0a0a0a" alt="Profile Views" />
+
+<!-- Option 2: visitor badge -->
+<img src="https://api.visitorbadge.io/api/visitors?path=sanjitkumar-git&label=PROFILE%20VIEWS&countColor=%230e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/BASED%20IN-GURGAON%2C%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3-0e75b6?style=for-the-badge&labelColor=0a0a0a" alt="Location" />
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-0e75b6?style=for-the-badge&labelColor=0a0a0a" alt="Open to collaboration" />
   <img src="https://img.shields.io/github/followers/sanjitkumar-git?style=for-the-badge&color=0e75b6&labelColor=0a0a0a" alt="Followers" />
